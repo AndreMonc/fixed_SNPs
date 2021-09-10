@@ -17,5 +17,6 @@ This program is designed to filter a VCF file containing individuals of two pare
 - Finally, if desired, add full VCF header info and change extension back to .vcf
 
 ## Citation
+[![DOI](https://zenodo.org/badge/404860790.svg)](https://zenodo.org/badge/latestdoi/404860790)
 
-**Moncrieff, A.E.** 2021. Fixed_SNPs v1.0: a program to identify fixed SNPs between parental species.
+**Moncrieff, A.E.** 2021. Fixed_SNPs v1.0: a program to identify fixed SNPs between parental species. DOI:10.5281/zenodo.5500344
